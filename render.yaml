@@ -2,7 +2,7 @@ services:
   - type: web
     name: NewBingGoGo-Web
     env: docker
-    repo: https://github.com/jianjianai/NewBingGoGo-Web.git 
+    repo: https://github.com/hm-jz/New-Web 
     region: oregon 
     plan: free 
     branch: master 
